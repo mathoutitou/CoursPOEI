@@ -1,0 +1,51 @@
+body{
+    width:1000px;
+    height: 1000px;
+}
+#head{
+    height: 50%;
+    width: 50%;
+    background-color:yellow;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+#toto{
+    display: flex;
+    width: 75%;
+    height: 30%;
+    justify-content: space-around;
+}
+.eyes{
+    height: 100%;
+    width: 100%;
+    background-color:white;
+    border-radius: 50%;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eyes:hover .pupils{
+    height: 50%;
+    width: 50%;
+}
+#leftEye{
+
+}
+#rightEye{
+
+}
+.pupils{
+    height: 25%;
+    width: 25%;
+    background-color:black;
+    border-radius: 50%;
+}
+#mouth{
+    height: 25px;
+    width: 65%;
+    background-color:red;
+    border-radius: 50%;
+}

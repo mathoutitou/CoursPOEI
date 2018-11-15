@@ -1,0 +1,22 @@
+body{
+	margin: 0px;
+}
+.allBlocks{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: 100%;
+}
+.main-pic{
+	display: flex;
+}
+.miniatures{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+.miniature{
+	display: flex;
+	width: 25%;
+	margin: 0px;
+}

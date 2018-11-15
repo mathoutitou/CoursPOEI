@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
+.box1, .box2, .box3, .box4, .box5, .box6{
+ height: 300px;
+}
+
+@media screen and (min-width: 640px) and (max-width: 1080px) {
+    .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .box1, .box5{
+        width: 100%;
+        order: -1;
+    }
+    .box4, .box6, .box2, .box3{
+        width: 50%;
+        
+    }
+    .box3{
+        width: 100%;
+    }
+    .box5{
+    width: 50%;
+    order: -1;  
+    }
+     
+}
+  @media screen and (max-width: 640px) {
+
+    .container{
+    margin: 0;
+    padding: 0;
+    }
+    .box1, .box4{
+        width: 100%;
+        display: block;
+    }
+    .box2, .box3, .box5, .box6 {
+        width: 50%;
+        display: inline-block;
+    }
+
+  }
