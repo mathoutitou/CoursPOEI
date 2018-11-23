@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="js-form.css">
+	<meta charset="utf-8">
+	<title>Formulaire JS</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+</head>
+<body>
+<h2>Ajouter un utilisateur</h2>
+    <form action="#" method="POST" name="userinfo" id="formulaire">
+        <label for="nom" id="champ">Nom d'utilisateur *</label><br>
+        <input type="text" name="nom" id="pseudo" placeholder="Saisissez votre Nom d'utilisateur" autofocus required /><br>
+        <br>
+        <label for="email" id="champ">Email *</label><br>
+        <input type="email" name="email" id="email" placeholder="Saisissez votre email" required/><br>
+        <br>
+        <label for="age" id="champ">Age (18 ans min) *</label><br>
+        <input type="number" name="age" min="18" id="age" required/><br>
+        <br>
+
+	    <input type="button" value="Envoyer" id="button"/>
+
+    </form>
+    <div id="contenu">
+        <h2>Mes utilisateurs</h2>
+        <ul id="myUsers">
+
+        </ul>
+    </div>
+    <script src="js-form.js"></script>
+</body>
+</html>

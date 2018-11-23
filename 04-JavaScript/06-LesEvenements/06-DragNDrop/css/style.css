@@ -1,0 +1,11 @@
+.dropzone{
+    width: 30em;
+    height: 30em;
+    margin-top: 2em;
+    border: 1px solid black;
+}
+
+img{
+    width: 30em;
+    height: 30em;
+}

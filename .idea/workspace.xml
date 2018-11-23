@@ -2,9 +2,356 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97c00e53-f061-4fc2-8a2e-4b9edcc0a017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/git/projet1/index.html.orig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git/projet1/index (copie).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git/projet1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/git/projet1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-git/projet1/index.html.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/07-LesClasses/02-Heritage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/07-LesClasses/02-Heritage/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/08-LesPromesses/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/08-LesPromesses/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/01-HTTP/script.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/script/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-git/projet1/index (copie).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-git/projet1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-git/projet1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/atelier.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/atelier.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/bootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/flexbox-visage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/flexbox-visage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/galerie-photo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/galerie-photo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/galerie-photo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/kitten.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/mauricie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/montreal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/tadoussac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/tata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/titi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/toto.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/images/tremblant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/javascript-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/javascript-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/javascript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/js-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/js-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/js-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/mapage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive(2).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/insta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/mauricie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/montreal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/responsive-flex(propre).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/responsive-flex(propre).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/responsive-flex.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/responsive-flex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/tadoussac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/tata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/titi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/toto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/tremblant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive-flex(site)/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/responsive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/visage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS/visage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/01-Les Bases/01-Les Variables/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/01-Les Bases/02-Condition et opérateur/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/01-Les Bases/03-Les Tableaux/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/01-Les Bases/04-SuperGlobales/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/01-Declaration/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/01-Declaration/librairies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/02-Librairies/01-Exercice/data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/02-Librairies/01-Exercice/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/02-Librairies/01-Exercice/librairie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/02-Librairies/cours/data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/02-Librairies/cours/form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/02-Librairies/cours/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/01-Exercice/exo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/01-Fonctions de Tableaux/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/02-Fonctions String/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/destroy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/fonction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/img/kitten.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/CSS/.~lock.css_2018.odp#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/CSS/css_2018.odp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/HTML_2018.odp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/atelier.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/atelier.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/bootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/formulaire.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/head.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/headFlex.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/headFlex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/img/AppleJack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/img/F_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/img/mlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/img/pinkiePie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/img/rainbowDash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/img/twilightSparkle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/mapage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/responsiveWebSite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/responsiveWebSite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/rwd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/rwd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/rwd2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/HTML/POEIPHP/video/trailer_480p.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/Referencement_semantique_accessi/referencement_semantique_accessi.odp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/ResponsiveWebDesign/ResponsiveWebDesign.odp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cours html-css/css_2018.odp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_2018.odp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-cheatsheet-EN-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/git.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/premier-projet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/projet1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/001-zootool.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/002-youtube.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/003-yahoo.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/004-happy.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/005-xing.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/006-wordpress.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/007-whatsapp.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/008-wattpad.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/009-vk.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/010-vine.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/011-vimeo.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/012-viddler.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/013-twitter-1.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/014-twitter.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/015-twitch.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/016-tumblr.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/017-team-viewer.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/018-stumbleupon.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/019-spotify.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/020-soundcloud.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/021-snapchat.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/022-skype.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/023-rss.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/024-reddit.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/025-plurk.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/026-pinterest.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/027-picasa.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/028-path.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/029-myspace-1.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/030-myspace.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/031-linkedin.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/032-like.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/033-kickstarter.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/034-instagram.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/035-google-plus.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/036-photo.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/037-hangouts.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/038-google-drive.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/039-github.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/040-foursquare.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/041-forrst.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/042-flickr.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/043-facebook-1.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/044-messenger.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/045-facebook.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/046-envato.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/047-dropbox.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/048-dribbble.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/049-dislike.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/050-digg.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/051-deviantart.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/052-delicious.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/053-blogger.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/054-behance.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/eps/055-lastfm.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/license/license.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/001-zootool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/002-youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/003-yahoo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/004-happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/005-xing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/006-wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/007-whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/008-wattpad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/009-vk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/010-vine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/011-vimeo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/012-viddler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/013-twitter-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/014-twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/015-twitch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/016-tumblr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/017-team-viewer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/018-stumbleupon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/019-spotify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/020-soundcloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/021-snapchat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/022-skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/023-rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/024-reddit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/025-plurk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/026-pinterest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/027-picasa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/028-path.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/029-myspace-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/030-myspace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/031-linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/032-like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/033-kickstarter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/034-instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/035-google-plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/036-photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/037-hangouts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/038-google-drive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/039-github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/040-foursquare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/041-forrst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/042-flickr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/043-facebook-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/044-messenger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/045-facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/046-envato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/047-dropbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/048-dribbble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/049-dislike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/050-digg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/051-deviantart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/052-delicious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/053-blogger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/054-behance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/png/055-lastfm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/001-zootool.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/002-youtube.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/003-yahoo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/004-happy.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/005-xing.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/006-wordpress.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/007-whatsapp.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/008-wattpad.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/009-vk.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/010-vine.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/011-vimeo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/012-viddler.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/013-twitter-1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/014-twitter.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/015-twitch.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/016-tumblr.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/017-team-viewer.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/018-stumbleupon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/019-spotify.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/020-soundcloud.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/021-snapchat.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/022-skype.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/023-rss.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/024-reddit.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/025-plurk.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/026-pinterest.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/027-picasa.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/028-path.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/029-myspace-1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/030-myspace.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/031-linkedin.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/032-like.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/033-kickstarter.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/034-instagram.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/035-google-plus.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/036-photo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/037-hangouts.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/038-google-drive.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/039-github.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/040-foursquare.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/041-forrst.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/042-flickr.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/043-facebook-1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/044-messenger.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/045-facebook.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/046-envato.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/047-dropbox.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/048-dribbble.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/049-dislike.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/050-digg.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/051-deviantart.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/052-delicious.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/053-blogger.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/054-behance.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/psd/055-lastfm.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/001-zootool.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/002-youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/003-yahoo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/004-happy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/005-xing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/006-wordpress.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/007-whatsapp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/008-wattpad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/009-vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/010-vine.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/011-vimeo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/012-viddler.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/013-twitter-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/014-twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/015-twitch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/016-tumblr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/017-team-viewer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/018-stumbleupon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/019-spotify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/020-soundcloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/021-snapchat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/022-skype.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/023-rss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/024-reddit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/025-plurk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/026-pinterest.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/027-picasa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/028-path.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/029-myspace-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/030-myspace.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/031-linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/032-like.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/033-kickstarter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/034-instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/035-google-plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/036-photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/037-hangouts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/038-google-drive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/039-github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/040-foursquare.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/041-forrst.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/042-flickr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/043-facebook-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/044-messenger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/045-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/046-envato.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/047-dropbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/048-dribbble.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/049-dislike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/050-digg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/051-deviantart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/052-delicious.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/053-blogger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/054-behance.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-icons/svg/055-lastfm.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,50 +359,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1429429730">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="php" value="28" />
-          <entry key="rnc" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PHP" value="28" />
-          <entry key="RNG Compact" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="php" value="3165" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PHP" value="3165" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.41928253">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/index.php">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/script/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+                <state relative-caret-position="570">
+                  <caret line="38" selection-start-line="38" selection-end-line="38" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="615">
+                  <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -63,14 +387,23 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.5">
+        <splitter split-orientation="vertical" split-proportion="0.6231102">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/fonction.php">
+                <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/script/script.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="195">
-                      <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+                    <state relative-caret-position="375">
+                      <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/Exercice/form/js-form.css">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="-121">
+                      <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
                     </state>
                   </provider>
                 </entry>
@@ -78,12 +411,12 @@
             </leaf>
           </split-first>
           <split-second>
-            <leaf>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/file.php">
+                <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state>
-                      <caret column="5" selection-start-column="5" selection-end-column="5" />
+                    <state relative-caret-position="192">
+                      <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
                     </state>
                   </provider>
                 </entry>
@@ -94,46 +427,104 @@
       </split-second>
     </splitter>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prenom</find>
+      <find>Prénom</find>
+      <find>nom</find>
+      <find>formu</find>
+      <find>inner</find>
+      <find>trad</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pic</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git/premier-projet" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/exo.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/index.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/01-Fonctions de Tableaux/index.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/01-Les Bases/04-SuperGlobales/index.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/02-Fonctions String/index.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/form/form.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/form.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/admin.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/index.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/destroy.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/file.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/fonction.php" />
-        <option value="$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/index.php" />
+        <option value="$PROJECT_DIR$/JavaScript/04-LesObjets/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/04-LesObjets/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/04-LesObjets/02-ObjetPredefini/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/04-LesObjets/01-Presentation/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/02-AccesAuCSS/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/02-AccesAuCSS/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/02-AccesAuCSS/css/style.css" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/Exercice/galerie-photo.html" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/Exercice/galerie-photo.js" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/Exercice/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/Exercice/css/style.css" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/Exercice/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/css/style.css" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/css/style.css" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/script/script.js" />
+        <option value="$PROJECT_DIR$/HTML-CSS/js-form.css" />
+        <option value="$PROJECT_DIR$/HTML-CSS/js-form.html" />
+        <option value="$PROJECT_DIR$/HTML-CSS/js-form.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/solution/form.css" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/solution/form.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/solution/form.html" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/01-Presentation/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/05-DOM/01-Presentation/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/js-form.html" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/correction.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/js-form.css" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/js-form.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/02-PreventDefault/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/02-PreventDefault/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/css/style.css" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/script/script.js" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/07-LesClasses/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/07-LesClasses/script/script.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/07-LesClasses/02-Heritage/script/script.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/07-LesClasses/02-Heritage/index.html" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/08-LesPromesses/index.html" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/08-LesPromesses/script/script.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/01-HTTP/script.txt" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/data.json" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/index.html" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/script/data.json" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/script/script.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/style.css" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/script/script.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/index.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1194" />
     <option name="y" value="25" />
-    <option name="width" value="1853" />
+    <option name="width" value="726" />
     <option name="height" value="1055" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,38 +535,48 @@
             <path>
               <item name="poe2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="poe2018" type="462c0819:PsiDirectoryNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="04-JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="poe2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="poe2018" type="462c0819:PsiDirectoryNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="CoursPhp" type="462c0819:PsiDirectoryNode" />
+              <item name="04-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="06-LesEvenements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="poe2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="poe2018" type="462c0819:PsiDirectoryNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="CoursPhp" type="462c0819:PsiDirectoryNode" />
-              <item name="05-UploadDeFichiers" type="462c0819:PsiDirectoryNode" />
+              <item name="04-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="06-LesEvenements" type="462c0819:PsiDirectoryNode" />
+              <item name="09-AJAX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poe2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poe2018" type="462c0819:PsiDirectoryNode" />
+              <item name="04-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="06-LesEvenements" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition" />
+      <recent name="$PROJECT_DIR$/JavaScript/05-DOM/Exercice/css" />
+      <recent name="$PROJECT_DIR$/JavaScript/05-DOM/Exercice/script" />
       <recent name="$PROJECT_DIR$/PHP/CoursPhp/04-Sessions" />
       <recent name="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/01-Exercice" />
-      <recent name="$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/01-Fonctions de Tableaux" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,6 +591,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="insertionArticle.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP/CoursPhp/03-SQL/insertionArticle.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.insertionArticle.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -202,22 +613,32 @@
       <updated>1542189912275</updated>
       <workItem from="1542189914152" duration="15355000" />
       <workItem from="1542271376863" duration="582000" />
-      <workItem from="1542271970363" duration="3867000" />
+      <workItem from="1542271970363" duration="10561000" />
+      <workItem from="1542295657096" duration="1917000" />
+      <workItem from="1542355926357" duration="23300000" />
+      <workItem from="1542621781289" duration="16269000" />
+      <workItem from="1542644127546" duration="92000" />
+      <workItem from="1542644279745" duration="782000" />
+      <workItem from="1542703689942" duration="3350000" />
+      <workItem from="1542707056672" duration="16075000" />
+      <workItem from="1542787484668" duration="23441000" />
+      <workItem from="1542874666308" duration="21453000" />
+      <workItem from="1542962193270" duration="16840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19804000" />
+    <option name="totallyTimeSpent" value="150017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16602103" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26217228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -226,116 +647,176 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24958494" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15827338" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/02-Les Fonctions/01-Declaration/librairies.php">
+    <entry file="file://$PROJECT_DIR$/JavaScript/05-DOM/Exercice/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/05-DOM/Exercice/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/05-DOM/Exercice/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/03-SQL/form.php" />
+    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/03-SQL/index.php" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/index.html" />
+    <entry file="file://$PROJECT_DIR$/HTML-CSS/js-form.css" />
+    <entry file="file://$PROJECT_DIR$/HTML-CSS/js-form.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/HTML-CSS/js-form.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/solution/form.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/solution/form.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/solution/form.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/05-DOM/01-Presentation/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/05-DOM/01-Presentation/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/05-DOM/02-AccesAuCSS/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/correction.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/js-form.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/02-PreventDefault/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/js-form.html" />
+    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/03-SQL/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/Exercice/form/js-form.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/02-PreventDefault/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/07-LesClasses/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/07-LesClasses/script/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/index.html" />
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/07-LesClasses/02-Heritage/script/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/01-Fonctions de Tableaux/index.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/07-LesClasses/02-Heritage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/01-Exercice/exo.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/07-LesClasses/01-Declaration/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/01-Les Bases/04-SuperGlobales/index.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/08-LesPromesses/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="76" selection-start-line="76" selection-end-line="76" selection-end-column="41" />
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="604" column="16" selection-start-line="604" selection-start-column="16" selection-end-line="604" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/meta.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/03-Fonction prédéfinies/02-Fonctions String/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/form.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/01-HTTP/script.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/destroy.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/08-LesPromesses/script/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="47" column="51" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/04-Sessions/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/file.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <caret selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/fonction.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/CoursPhp/05-UploadDeFichiers/index.php">
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/script/data.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/02-Definition/script/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/05-DOM/Exercice/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/Exercice/form/js-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/img/clear.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/script/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript/06-LesEvenements/09-AJAX/Exercice/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>

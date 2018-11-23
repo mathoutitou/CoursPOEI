@@ -1,0 +1,51 @@
+body{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    margin: 20%;
+    border : 5px solid #33d9b2;
+    padding : 5%;
+
+}
+
+#queryLoc{
+    text-align: center;
+    width: 50% ;
+    border: #33d9b2 solid;
+    color: #1f7f67;
+    font-size: 18px;
+}
+
+#meteo{
+    display: flex;
+    font-size: 20px;
+    background-color: #33d9b2;
+    border: none;
+    color: white;
+    padding: 5%;
+    text-align: center;
+    margin: 10% 10% 5% 10%;
+}
+
+#zone_meteo{
+    text-align: center;
+    font-size: 20px;
+    line-height: 2;
+    color: #1f7f67;
+}
+
+img{
+    padding: 5% 5% 0% 5%;
+    width: 50%;
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}

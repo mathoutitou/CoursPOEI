@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6{
+    height: 300px;
+   }
+
+@media screen and (min-width: 640px) and (max-width: 1080px){
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .box1, .box3{
+        width: 100%;
+    }
+     .box2, .box4, .box5, .box6{
+         width: 50%;
+     }
+     .box5{
+         order: -1;
+     }
+     .box1{
+         order: -2;
+     }
+}
+
+
+
+@media screen and (max-width: 640px){
+    .box2, .box3, .box5, .box6{
+        display: inline-block;
+        width: 50%
+    }
+
+}

@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+}
+.display{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: 80%;
+	margin: 10%;
+}
+.main-pic{
+	display: flex;
+}
+.miniatures{
+	display: flex;
+    justify-content: space-around;
+	flex-direction: row;
+	width: 100%;
+    margin: 3% 0%;
+}
+.miniature {
+    display: flex;
+    width: 20%;
+    margin: 0px;
+    border: 10px solid white;
+}
+.display .miniatures img{
+    opacity: .7;
+}
+.display .miniatures img:hover{
+    opacity: 1 ;
+}
+

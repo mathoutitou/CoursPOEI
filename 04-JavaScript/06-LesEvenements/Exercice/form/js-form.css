@@ -1,0 +1,63 @@
+body{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+#formulaire{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border : 10px solid black;
+    padding: 2%;
+}
+form input{
+    font-size: 16px;
+    text-align: center;
+}
+#button{
+    display: flex;
+    font-size: 20px;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 7%;
+    text-align: center;
+    margin: 10% 10% 5% 10%;
+}
+#champ{
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+#contenu{
+    text-align: center;
+    width: 30%;
+}
+#myUsers{
+    padding: 0px;
+    text-align: center;
+}
+#myUsers li{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    margin: 5%;
+    border : 5px solid black;
+    padding: 1%;
+}
+.delete{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 5%;
+    text-align: center;
+    margin: 1em auto;
+}

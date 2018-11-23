@@ -1,0 +1,141 @@
+body{
+	font-family: 'Lato', sans-serif;
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+/*Page d'accueil (index)*/
+.header{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+}
+.title{
+	display: flex;
+	width: 80%;
+	justify-content: center; 
+	margin-left: 216px;
+	margin-top: 21px;
+	margin-bottom: 21px;
+}
+.connexion{
+	display: flex;
+	width: 20%;
+	justify-content: center;
+	margin-top: 21px;
+	margin-bottom: 21px;
+	align-items: center;
+}
+.articles{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 60%;
+}
+.articles img{
+	display: flex;
+	width: 100%;
+}
+.article{
+	border-width: 10px;
+	border-style : solid;
+	border-color: black;
+	width: 100%;
+}
+.article h2{
+	padding: 5px 30px;
+	text-align: center;
+}
+.article p{
+	padding: 5px 30px;
+	text-align: justify;
+}
+/*Page de connexion*/
+.connexion_page{
+	display: flex;
+	justify-content: center;
+	align-self: center;
+	text-align: center;
+	width: 50%;
+	height: 30%;
+	border-width: 10px;
+	border-style : solid;
+	border-color: black;
+	margin : 20% 23%;
+}
+.connecte-toi{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin : 0% 5%;
+	width: 100%;
+}
+.connecte-toi p{
+	text-align: center;
+	width: 100%;
+	font-size: 18px;
+}
+.connecte-toi form{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: 100%;
+	font-size: 18px;
+}
+.connecte-toi div{
+	margin: 1%;
+}
+.connecte-toi input{
+	font-size: 18px;
+}
+.connecte-toi input.submit{
+	margin : 1% 35%;
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 1%;
+}
+
+.buttons form{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+}
+.buttons input{
+	font-size: 20px;
+	margin : 1% 35%;
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 7%;
+}
+/*Page Admin/Ajout d'article*/
+.ajouter_article{
+	width: 70%;
+	height: 75%;
+	border-width: 10px;
+	border-style : solid;
+	border-color: black;
+	margin : 10% 15%;
+}
+.ajouter_article input.publier{
+	margin : 1% 0%;
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 2%;
+	font-size: 20px;
+}
+
+
