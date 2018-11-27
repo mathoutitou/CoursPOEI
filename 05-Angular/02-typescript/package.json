@@ -1,0 +1,20 @@
+{
+  "name": "02-typescript",
+  "version": "1.0.0",
+  "description": "Un joli projet avec Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "formation",
+    "angular",
+    "typescript"
+  ],
+  "author": "Mathilde Fougeron <fougeron.mathilde@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
