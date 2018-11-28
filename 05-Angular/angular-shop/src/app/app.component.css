@@ -1,3 +1,20 @@
+*{
+  font-family: 'Lato', sans-serif;
+}
+
+body{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
 h1{
   background-color: limegreen;
+  color: white;
+  width: 100%;
+}
+
+img{
+  width: 20%;
+  height: 20%;
 }
