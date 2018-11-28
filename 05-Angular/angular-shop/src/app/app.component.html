@@ -3,11 +3,19 @@
     <h1>
       {{ title }}!
     </h1>
-    <div class="articles">
-      <app-plante-detail
-        *ngFor="let plante of plantes"
-        [plante]="plante"
-        (planteSelected)="setCurrent($event)"
-      ></app-plante-detail>
+    <app-plante-create (planteCreated)="add($event)" ></app-plante-create>
+    <div class="plante-wrapper">
+      <div class="min">
+        <nav>
+          <app-plante-thumbnail
+            *ngFor="let plante of plantes"
+            [plante]="plante"
+            (planteSelected)="setCurrent($event)"
+          ></app-plante-thumbnail>
+        </nav>
+      </div>
+      <div class="zoom">
+        <app-plante-detail [plante]="currentPlante"></app-plante-detail>
+      </div>
     </div>
   </div>

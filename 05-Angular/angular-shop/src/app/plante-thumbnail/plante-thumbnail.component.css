@@ -1,0 +1,14 @@
+*{
+  font-family: 'Lato', sans-serif;
+}
+article{
+  border: solid limegreen 1px;
+  margin: 3vw;
+  font-size: 1.5vw;
+  padding: 2%;
+}
+img{
+  width: 75%;
+  height: 75%;
+}
+

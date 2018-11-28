@@ -28,14 +28,22 @@ export class AppComponent {
     this.plantes[2].name = 'Succulente';
     this.plantes[2].img = 'succulente.png';
     this.plantes[2].description = 'Très appréciée pour son feuillage en forme de fleur.';
-    this.plantes[2].price = 30;
+    this.plantes[2].price = 5;
 
     this.plantes.push(new Plante());
     this.plantes[3].name = 'Yucca';
     this.plantes[3].img = 'yucca.png';
     this.plantes[3].description = 'Facile d\'entretien, elle est originaire d\'Amérique Centrale.';
-    this.plantes[3].price = 30;
+    this.plantes[3].price = 25;
+    // Mettre une plante par défault
+    this.currentPlante = this.plantes[0];
   }
+
+  add(plante: Plante): void {
+    this.plantes.push(plante);
+    this.currentPlante = plante;
+  }
+
   // Définir quel est l'objet courant
   setCurrent(plante: Plante): void {
     this.currentPlante = plante;

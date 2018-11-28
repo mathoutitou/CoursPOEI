@@ -1,20 +1,23 @@
 *{
   font-family: 'Lato', sans-serif;
 }
-
 body{
+  width: 100%;
+}
+h1{
+  background-color: #4CAF50;
+  color: white;
+  font-size: 4vw;
+  width: 100%;
+}
+.plante-wrapper{
   display: flex;
   flex-direction: row;
   width: 100%;
 }
-
-h1{
-  background-color: limegreen;
-  color: white;
-  width: 100%;
+.zoom{
+  width: 75%;
 }
-
-img{
-  width: 20%;
-  height: 20%;
+.min{
+  width: 25%;
 }
