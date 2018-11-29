@@ -16,6 +16,7 @@ export class PlanteCreateComponent implements OnInit {
   ngOnInit() {
   }
   create(form: NgForm) {
+    this.newPlante.img = this.newPlante.img.substr(12);
     this.planteCreated.emit(this.newPlante);
     this.newPlante = new Plante();
     form.reset();

@@ -1,0 +1,22 @@
+[
+  { "name":  "Aloe Vera",
+    "img": "aloe-vera.png",
+    "description": "Connue pour ses vertus médicinales et cosmétiques.",
+    "price":  20
+  },
+  { "name":  "Bananier",
+    "img": "bananier.png",
+    "description": "Dans des conditions idéales, il fera de toutes petites bananes, pas très bonnes.",
+    "price":  35
+  },
+  { "name":  "Succulente",
+    "img": "succulente.png",
+    "description": "Très appréciée pour son feuillage en forme de fleur.",
+    "price":  5
+  },
+  { "name":  "Yucca",
+    "img": "yucca.png",
+    "description": "Facile d'entretien, elle est originaire d'Amérique Centrale.",
+    "price":  25
+  }
+]

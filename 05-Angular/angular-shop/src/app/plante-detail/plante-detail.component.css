@@ -13,4 +13,11 @@ img{
   width: 75%;
   height: 75%;
 }
-
+.no-select{
+  margin : 3vw;
+  border: solid limegreen 1px;
+  font-size: 2vw;
+  padding: 2%;
+  height: auto;
+  width: auto;
+}

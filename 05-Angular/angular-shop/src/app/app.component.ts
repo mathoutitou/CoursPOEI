@@ -1,5 +1,8 @@
-import { Component } from '@angular/core';
+import {Component, Inject} from '@angular/core';
 import { Plante } from './plante';
+import {PlantesService} from './plantes.service';
+import {LoggerService} from './logger.service';
+import {SERVER_URL_TOKEN} from './app.config';
 
 @Component({
   selector: 'app-root',
@@ -11,35 +14,19 @@ export class AppComponent {
   plantes: Plante[] = []; // [] pour signifier que c'est un tableau
   currentPlante: Plante; // permet d'avoir un produit courant
 
-  constructor() {
-    this.plantes.push(new Plante());
-    this.plantes[0].name = 'Aloe Vera';
-    this.plantes[0].img = 'aloe-vera.png';
-    this.plantes[0].description = 'Connue pour ses vertus médicinales et cosmétiques.';
-    this.plantes[0].price = 20;
-
-    this.plantes.push(new Plante());
-    this.plantes[1].name = 'Bananier';
-    this.plantes[1].img = 'bananier.png';
-    this.plantes[1].description = 'Dans des conditions idéales, il fera de toutes petites bananes, pas très bonnes.';
-    this.plantes[1].price = 35;
-
-    this.plantes.push(new Plante());
-    this.plantes[2].name = 'Succulente';
-    this.plantes[2].img = 'succulente.png';
-    this.plantes[2].description = 'Très appréciée pour son feuillage en forme de fleur.';
-    this.plantes[2].price = 5;
-
-    this.plantes.push(new Plante());
-    this.plantes[3].name = 'Yucca';
-    this.plantes[3].img = 'yucca.png';
-    this.plantes[3].description = 'Facile d\'entretien, elle est originaire d\'Amérique Centrale.';
-    this.plantes[3].price = 25;
-    // Mettre une plante par défault
+  constructor(
+    plantesService: PlantesService,
+    private logger: LoggerService,
+    @Inject(SERVER_URL_TOKEN) serverUrl: string
+  ) {
+    this.plantes = plantesService.plantes;
+//     // Mettre une plante par défault
     this.currentPlante = this.plantes[0];
   }
 
+
   add(plante: Plante): void {
+    this.logger.log('new plante');
     this.plantes.push(plante);
     this.currentPlante = plante;
   }
