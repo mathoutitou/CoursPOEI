@@ -1,27 +1,123 @@
-form>div{
-  margin: 1em;
+/*GRANDS ECRANS ORDI*/
+@media (min-width:1281px){
+    form>div{
+    margin: 1vw;
+  }
+  * {
+    font-size: 1vw;
+  }
+  .ng-invalid.ng-touched:not(form){
+    background-color: red;
+    opacity: 0.3;
+  }
+  .error{
+    background-color: pink;
+    color: darkred;
+    padding: 0.4vw 0;
+    border-left: 1ch solid darkred;
+  }
+  button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.5vw 1vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.3vw;
+  }
+  input{
+    font-size: 1vw;
+    font-color : black;
+  }
 }
-.ng-invalid.ng-touched:not(form){
-  background-color: red;
-  opacity: 0.3;
+/*ECRAN ORDI PETITS / MOYENS OU TABLETTE EN PORTRAIT*/
+@media (min-width:960px) and (max-width:1280px){
+  form>div{
+    margin: 1vw;
+  }
+  .ng-invalid.ng-touched:not(form){
+    background-color: red;
+    opacity: 0.3;
+  }
+  .error{
+    background-color: pink;
+    color: darkred;
+    padding: .5em 0;
+    border-left: 1ch solid darkred;
+  }
+  button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 1vw 2vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vw;
+  }
+  input{
+    font-size: 2vw;
+    font-color : black;
+  }
 }
-.error{
-  background-color: pink;
-  color: darkred;
-  padding: .5em 0;
-  border-left: 1ch solid darkred;
+/*TABLETTE EN PORTRAIT OU SMARPHONE EN PAYSAGE*/
+@media (min-width:480px) and (max-width:959px){
+  form>div{
+    margin: 1em;
+  }
+  .ng-invalid.ng-touched:not(form){
+    background-color: red;
+    opacity: 0.3;
+  }
+  .error{
+    background-color: pink;
+    color: darkred;
+    padding: .5em 0;
+    border-left: 1ch solid darkred;
+  }
+  button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 1vw 2vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vw;
+  }
+  input{
+    font-size: 2vw;
+    font-color : black;
+  }
 }
-button{
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 1vw 2vw;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 2vw;
-}
-input{
-  font-size: 2vw;
-  font-color : black;
+/*SMARTPHONE EN PORTRAIT*/
+@media (max-width:479px){
+  form>div{
+    margin: 1em;
+  }
+  .ng-invalid.ng-touched:not(form){
+    background-color: red;
+    opacity: 0.3;
+  }
+  .error{
+    background-color: pink;
+    color: darkred;
+    padding: .5em 0;
+    border-left: 1ch solid darkred;
+  }
+  button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 1vw 2vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vw;
+  }
+  input{
+    font-size: 2vw;
+    font-color : black;
+  }
 }

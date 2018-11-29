@@ -31,6 +31,12 @@ export class AppComponent {
     this.currentPlante = plante;
   }
 
+  remove(plante: Plante) {
+    this.logger.log('cancel plante');
+    const pos = this.plantes.indexOf(plante);
+    this.plantes.splice(pos, 1);
+  }
+
   // Définir quel est l'objet courant
   setCurrent(plante: Plante): void {
     this.currentPlante = plante;

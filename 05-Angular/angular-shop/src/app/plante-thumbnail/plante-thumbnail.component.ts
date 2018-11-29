@@ -7,8 +7,8 @@ import {Plante} from '../plante';
   styleUrls: ['./plante-thumbnail.component.css']
 })
 export class PlanteThumbnailComponent implements OnInit {
-  @Input()
-  plante: Plante;
+  @Input() plante: Plante;
+  @Input() isActive: boolean;
 
   @Output()
   planteSelected = new EventEmitter<Plante>();
@@ -17,6 +17,7 @@ export class PlanteThumbnailComponent implements OnInit {
 
   ngOnInit() {
   }
+
   select(): void {
     this.planteSelected.emit(this.plante);
   }

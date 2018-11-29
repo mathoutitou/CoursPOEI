@@ -3,13 +3,14 @@
     <h1>
       {{ title }}!
     </h1>
-    <app-plante-create (planteCreated)="add($event)" ></app-plante-create>
+    <app-plante-create (planteCreated)="add($event)" (planteCanceled)="remove($event)" ></app-plante-create>
     <div class="plante-wrapper">
       <div class="min">
         <nav>
           <app-plante-thumbnail
             *ngFor="let plante of plantes"
             [plante]="plante"
+            [isActive]="plante === currentPlante"
             (planteSelected)="setCurrent($event)"
           ></app-plante-thumbnail>
         </nav>

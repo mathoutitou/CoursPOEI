@@ -1,23 +1,107 @@
-*{
-  font-family: 'Lato', sans-serif;
+/*GRANDS ECRANS ORDI*/
+@media (min-width:1281px){
+  *{
+    font-family: 'Lato', sans-serif;
+  }
+  body{
+    width: 100%;
+  }
+  h1{
+    background-color: #4CAF50;
+    color: white;
+    font-size: 2vw;
+    width: 100%;
+  }
+  .plante-wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .zoom{
+    width: 65%;
+  }
+  .min{
+    width: 35%;
+  }
 }
-body{
-  width: 100%;
+
+/*ECRAN ORDI PETITS / MOYENS OU TABLETTE EN PORTRAIT*/
+@media (min-width:960px) and (max-width:1280px){
+  *{
+    font-family: 'Lato', sans-serif;
+  }
+  body{
+    width: 100%;
+  }
+  h1{
+    background-color: #4CAF50;
+    color: white;
+    font-size: 4vw;
+    width: 100%;
+  }
+  .plante-wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .zoom{
+    width: 75%;
+  }
+  .min{
+    width: 25%;
+  }
 }
-h1{
-  background-color: #4CAF50;
-  color: white;
-  font-size: 4vw;
-  width: 100%;
+
+/*TABLETTE EN PORTRAIT OU SMARPHONE EN PAYSAGE*/
+@media (min-width:480px) and (max-width:959px){
+  *{
+    font-family: 'Lato', sans-serif;
+  }
+  body{
+    width: 100%;
+  }
+  h1{
+    background-color: #4CAF50;
+    color: white;
+    font-size: 4vw;
+    width: 100%;
+  }
+  .plante-wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .zoom{
+    width: 75%;
+  }
+  .min{
+    width: 25%;
+  }
 }
-.plante-wrapper{
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-}
-.zoom{
-  width: 75%;
-}
-.min{
-  width: 25%;
+
+/*SMARTPHONE EN PORTRAIT*/
+@media (max-width:479px){
+  *{
+    font-family: 'Lato', sans-serif;
+  }
+  body{
+    width: 100%;
+  }
+  h1{
+    background-color: #4CAF50;
+    color: white;
+    font-size: 4vw;
+    width: 100%;
+  }
+  .plante-wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .zoom{
+    width: 75%;
+  }
+  .min{
+    width: 25%;
+  }
 }
