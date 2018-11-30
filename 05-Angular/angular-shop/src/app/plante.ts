@@ -3,4 +3,5 @@ export class Plante {
   img: string;
   description: string;
   price: number;
+  id: number;
 }

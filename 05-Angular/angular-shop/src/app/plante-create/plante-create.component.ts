@@ -31,8 +31,10 @@ export class PlanteCreateComponent implements OnInit {
     this.http.post('plante', this.newPlante)
       .subscribe(
         response => {console.log(response); },
-        reason => {this.cancel(reason); }
+        reason => {this.cancel(pendingPlante); }
         );
+
+    this.newPlante.img = this.newPlante.img.substr(12);
     this.planteCreated.emit(this.newPlante);
     this.newPlante = new Plante();
     form.reset();

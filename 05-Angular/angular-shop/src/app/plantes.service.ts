@@ -28,4 +28,7 @@ export class PlantesService {
         console.log('zut zut encore raté', reason);
       });
   }
+  get(id: number) {
+    return this.plantes.find(elt => elt.id === id);
+  }
 }

@@ -12,15 +12,16 @@
   }
 
   app-plante-thumbnail{
-
+    display: flex;
+    text-align: center;
   }
 
   article {
     border: solid limegreen 1px;
-    margin: 2vw 0vw 2vw 2vw;
+    margin: 2vw;
     font-size: 1vw;
     padding: 1%;
-    width: 35%;
+    width: 100%;
   }
 
   img {

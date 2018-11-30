@@ -1,0 +1,7 @@
+<div class="min">
+  <app-plante-thumbnail
+    *ngFor="let plante of plantes"
+    [plante]="plante"
+    (planteSelected)="goToDetail($event)"
+  ></app-plante-thumbnail>
+</div>

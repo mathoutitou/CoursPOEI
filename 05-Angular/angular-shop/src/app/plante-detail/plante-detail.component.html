@@ -1,8 +1,11 @@
-<article *ngIf="plante">
-  <h1>{{ plante.name }}</h1>
-  <p><img src="assets/img/{{ plante.img }}" alt="{{ plante.img }}"/></p>
-  <p>{{plante.description}}</p>
-  <p>{{plante.price | currency: 'EUR' }}</p>
-</article>
+<div class="zoom">
+  <article *ngIf="plante">
+    <h1>{{ plante.name }}</h1>
+    <p><img [src]="'assets/img/'+plante.img" alt="{{ plante.img }}"/></p>
+    <p>{{plante.description}}</p>
+    <p>{{plante.price | currency: 'EUR' }}</p>
+  </article>
+  <a routerLink="./.."><button>Retour</button></a>
+</div>
 
 <div *ngIf="!plante" class="no-select">Sélectionnez une plante pour voir sa description.</div>

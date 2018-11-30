@@ -1,21 +1,21 @@
 <form (submit)="create(planteForm)" #planteForm="ngForm">
   <div>
-    <label for="plante-create-title">Titre : </label>
-    <input [(ngModel)]="newPlante.name" pattern=".{3,}" #titleField="ngModel" required autofocus type="text" id="plante-create-title" name="title">
+    <label for="plante-create-title">Titre : </label><br>
+    <input [(ngModel)]="newPlante.name" pattern=".{3,}" #titleField="ngModel" required type="text" id="plante-create-title" name="title">
     <p class="error" *ngIf="titleField.invalid && titleField.touched">Elle a pas de nom ta plante ?</p>
   </div>
   <div>
-    <label for="plante-create-img">Photo : </label>
+    <label for="plante-create-img">Photo : </label><br>
     <input [(ngModel)]="newPlante.img" #imgField="ngModel" required type="file" id="plante-create-img" name="img">
     <p class="error" *ngIf="imgField.invalid && imgField.touched" >Photo photooo</p>
   </div>
   <div>
-    <label for="plante-create-description">Description : </label>
+    <label for="plante-create-description">Description : </label><br>
     <input [(ngModel)]="newPlante.description" pattern=".{9,}" #descriptionField="ngModel" required type="text" id="plante-create-description" name="description">
     <p class="error" *ngIf="descriptionField.invalid && descriptionField.touched" >Une petite phrase pour nous dire à quel point c'est la plus belle.</p>
   </div>
   <div>
-    <label for="plante-create-price">Prix : </label>
+    <label for="plante-create-price">Prix : </label><br>
     <input [(ngModel)]="newPlante.price" min="0" max="1000" #priceField="ngModel" required type="number" id="plante-create-price" name="price">
     <p class="error" *ngIf="priceField.invalid && priceField.touched">Eh ! C'est pas gratuit !</p>
   </div>

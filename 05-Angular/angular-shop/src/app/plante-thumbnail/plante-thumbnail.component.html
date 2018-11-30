@@ -1,6 +1,6 @@
 <!--si l'utilisateur click, déclanche fonction select-->
 <article (click)="select()">
   <h2 [class.selected]="isActive">{{ plante.name }}</h2>
-  <p><img src="assets/img/{{ plante.img }}" alt="{{ plante.img }}"/></p>
+  <p><img [src]="'assets/img/'+plante.img" alt="{{ plante.img }}"/></p>
   <p>{{plante.price | currency: 'EUR' }}</p>
 </article>

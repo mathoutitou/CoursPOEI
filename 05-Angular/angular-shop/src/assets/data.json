@@ -1,22 +1,75 @@
 [
-  { "name":  "Aloe Vera",
+  {"id" : 1,
+    "name": "Aloe Vera",
     "img": "aloe-vera.png",
     "description": "Connue pour ses vertus médicinales et cosmétiques.",
-    "price":  20
+    "price": 20
   },
-  { "name":  "Bananier",
+  {"id" : 2,
+    "name": "Bananier",
     "img": "bananier.png",
     "description": "Dans des conditions idéales, il fera de toutes petites bananes, pas très bonnes.",
-    "price":  35
+    "price": 35
   },
-  { "name":  "Succulente",
+  {"id" : 3,
+    "name": "Succulente",
     "img": "succulente.png",
     "description": "Très appréciée pour son feuillage en forme de fleur.",
-    "price":  5
+    "price": 5
   },
-  { "name":  "Yucca",
+  {"id" : 4,
+    "name": "Yucca",
     "img": "yucca.png",
     "description": "Facile d'entretien, elle est originaire d'Amérique Centrale.",
-    "price":  25
+    "price": 25
+  },
+  {"id" : 5,
+    "name": "Arbre de Jade",
+    "img": "arbre-jade.png",
+    "description": "Une plante grasse facile d'entretien et dépolluante.",
+    "price": 40
+  },
+  {"id" : 6,
+    "name": "Figuier de Barbarie",
+    "img": "figuier-barbarie.png",
+    "description": "Cultivé pour ses fruits riches en vitamine C.",
+    "price": 15
+  },
+  {"id" : 7,
+    "name": "Croton",
+    "img": "croton.png",
+    "description": "A éloigner des enfants ou des animaux de compagnie car sa sève est toxique.",
+    "price": 25
+  },
+  {"id" : 8,
+    "name": "Caoutchouc",
+    "img": "caoutchouc.png",
+    "description": "Connu pour le latex de sa sève, il est toxique pour les animaux.",
+    "price": 35
+  },
+  {"id" : 9,
+    "name": "Faux Philodendron",
+    "img": "faux-philodendron.png",
+    "description": "Facile d'entretien et très graphique. Allez savoir pourquoi, c'est notre préféré.",
+    "price": 40
+  },
+  {"id" : 10,
+    "name": "Asperge Sétacée",
+    "img": "asperge-setacee.png",
+    "description": "Comme les fougères, ce sont des plantes de sous-bois.",
+    "price": 35
+  },
+  {"id" : 11,
+    "name": "Aloe Aristata",
+    "img": "aloe-aristata.png",
+    "description": "Ses feuilles font penser aux étoiles du cosmos.",
+    "price": 5
+  },
+  {"id" : 12,
+    "name": "Cactus éléphant",
+    "img": "cactus-elephant.png",
+    "description": "Originaire du Mexique, ses fruits sont comestibles.",
+    "price": 15
   }
 ]
+

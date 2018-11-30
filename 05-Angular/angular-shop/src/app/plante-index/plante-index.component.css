@@ -1,0 +1,20 @@
+.plante-wrapper{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.zoom{
+  width: 65%;
+}
+.min{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+app-plante-thumbnail{
+  display: flex;
+  text-align: center;
+  width: 25%;
+}

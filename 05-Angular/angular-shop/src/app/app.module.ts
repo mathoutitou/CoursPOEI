@@ -9,6 +9,9 @@ import { PlanteCreateComponent } from './plante-create/plante-create.component';
 import {LoggerService} from './logger.service';
 import {configFactory, SERVER_URL, SERVER_URL_TOKEN} from './app.config';
 import {HttpClientModule} from '@angular/common/http';
+import {RouterModule} from '@angular/router';
+import { PlanteIndexComponent } from './plante-index/plante-index.component';
+import { MenuComponent } from './menu/menu.component';
 
 const COUCOU = new InjectionToken('coucou');
 const LOGGER_ALIAS = new InjectionToken('alias vers le logger');
@@ -19,12 +22,21 @@ const SECONDE_CONFIG   = new InjectionToken('une deuxième config');
     AppComponent,
     PlanteThumbnailComponent,
     PlanteDetailComponent,
-    PlanteCreateComponent
+    PlanteCreateComponent,
+    PlanteIndexComponent,
+    MenuComponent
   ],
   imports: [ // gestion des fonctionnalités du framework disponibles dans l'application
     BrowserModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    // chargement des configurations de roots
+    RouterModule.forRoot([
+      { path: 'plante', component: PlanteIndexComponent },
+      { path: 'plante/:id', component: PlanteDetailComponent },
+      { path: 'create', component: PlanteCreateComponent },
+      { path: '', redirectTo: 'plante', pathMatch: 'full' },
+    ])
   ],
   providers: [
     LoggerService,
