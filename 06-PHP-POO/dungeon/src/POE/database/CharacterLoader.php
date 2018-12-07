@@ -1,15 +1,8 @@
 <?php
 namespace POE\database;
 
-class CharacterLoader
+class CharacterLoader extends CharacterConnection
 {
-    private $connection;
-
-    public function __construct(Connection $connection)
-    {
-        $this->connection = $connection->getConnection();
-    }
-
     public function load(int $id): Character
     {
         $statement = $this->connection->prepare('SELECT * FROM characters WHERE id = :id');

@@ -12,14 +12,14 @@
 
     <div>
         Point de vie:
-        <progress max="<?= $character->getLifeMax()?>" value="<?= $character->getLifeCurrent()?>">
-            <?= $character->getLifeCurrent()?> / <?= $character->getLifeMax()?> PV
+        <progress max="<?= $character->getMaxLife()?>" value="<?= $character->getCurrentLife()?>">
+            <?= $character->getCurrentLife()?> / <?= $character->getMaxLife()?> PV
         </progress>
     </div>
     <div>
         Energie:
-        <progress max="<?= $character->getEnergyMax()?>" value="<?= $character->getEnergyCurrent()?>">
-            <?= $character->getEnergyCurrent()?> / <?= $character->getEnergyMax()?> PM
+        <progress max="<?= $character->getMaxEnergy()?>" value="<?= $character->getCurrentEnergy()?>">
+            <?= $character->getCurrentEnergy()?> / <?= $character->getMaxEnergy()?> PM
         </progress>
     </div>
     <div>
