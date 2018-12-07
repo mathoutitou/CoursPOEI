@@ -25,10 +25,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/Dungeon.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            <state relative-caret-position="199">
+              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
               <folding>
                 <element signature="e#23#50#0#PHP" expanded="true" />
               </folding>
@@ -39,8 +48,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="585">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterFactory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="59" lean-forward="true" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/template/createCharacter.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -48,8 +75,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterLoader.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="210">
+              <caret line="14" column="91" lean-forward="true" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/Connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" column="85" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -95,8 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/02-PreventDefault/script/script.js" />
-        <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/script/script.js" />
         <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/index.html" />
         <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/css/style.css" />
         <option value="$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/index.html" />
@@ -145,9 +179,14 @@
         <option value="$PROJECT_DIR$/06-PHP-POO/dungeon/public/index.php" />
         <option value="$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/CharacterManager.php" />
         <option value="$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/Dungeon.php" />
+        <option value="$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterFactory.php" />
+        <option value="$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/Connection.php" />
         <option value="$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterManager.php" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
@@ -232,7 +271,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/05-Angular/02-typescript/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -299,7 +338,7 @@
       <workItem from="1543585746830" duration="1000000" />
       <workItem from="1543836367552" duration="45000" />
       <workItem from="1543999913463" duration="13924000" />
-      <workItem from="1544174723173" duration="1236000" />
+      <workItem from="1544174723173" duration="4859000" />
     </task>
     <task id="LOCAL-00001" summary="import des fichiers perdus dungeon">
       <created>1544174879800</created>
@@ -315,17 +354,23 @@
       <option name="project" value="LOCAL" />
       <updated>1544175012640</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dungeon - création CharacterManager">
+      <created>1544175986482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544175986482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191147000" />
+    <option name="totallyTimeSpent" value="194770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22634201" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22634201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32937366" />
@@ -339,7 +384,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24298055" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24298055" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -380,12 +425,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="import des fichiers perdus dungeon" />
-    <option name="LAST_COMMIT_MESSAGE" value="import des fichiers perdus dungeon" />
+    <MESSAGE value="dungeon - création CharacterManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="dungeon - création CharacterManager" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/script/script.js" />
-    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/script/script.js" />
-    <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/03-StopPropagation/index.html" />
     <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/07-LesClasses/index.html" />
     <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/07-LesClasses/script/script.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript/06-LesEvenements/06-DragNDrop/index.html" />
@@ -616,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06-PHP-POO/05-autoload/POE/formation/Toto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06-PHP-POO/05-autoload/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -630,13 +666,6 @@
           <folding>
             <element signature="e#6#260#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
@@ -650,27 +679,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/06-PHP-POO/05-autoload/POE/formation/Toto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="85" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="59" lean-forward="true" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/template/createCharacter.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="91" lean-forward="true" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/Dungeon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        <state relative-caret-position="199">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
           <folding>
             <element signature="e#23#50#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterLoader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06-PHP-POO/dungeon/src/POE/database/CharacterManager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="585">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
         </state>
       </provider>
     </entry>
