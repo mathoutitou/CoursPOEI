@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/01-git/premier-projet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/01-git/projet1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06-PHP-POO/dungeon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git/premier-projet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git/projet1" vcs="Git" />
   </component>
