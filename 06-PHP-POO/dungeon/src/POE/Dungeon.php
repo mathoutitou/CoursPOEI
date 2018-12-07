@@ -2,6 +2,7 @@
 
 namespace POE;
 
+use POE\database\CharacterManager;
 use POE\database\CharacterFactory;
 use POE\database\CharacterLoader;
 use POE\database\Connection;
@@ -17,7 +18,6 @@ class Dungeon
          */
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if (!isset($_POST['type']) && in_array($_POST['type'], ['warrior', 'thief', 'wizard'])) {
-                ;
                 // gestion de l'erreur
             }
 
@@ -28,7 +28,8 @@ class Dungeon
             $factory = new CharacterFactory();
             $character = $factory->generate($_POST['name'], $_POST['type']);
 
-            var_dump($character);
+            $manager = new CharacterManager(new Connection());
+            $manager->save($character);
         }
 
         ob_start();

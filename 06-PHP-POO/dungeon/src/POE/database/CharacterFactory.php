@@ -28,8 +28,6 @@ class CharacterFactory
 
     public function generate(string $name, string $type): Character
     {
-        $character = new Character();
-        $character->setName($name);
 
         /**
          * Détection d'une situation inhabituelle.
