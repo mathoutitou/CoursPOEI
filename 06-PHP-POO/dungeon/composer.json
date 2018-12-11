@@ -1,0 +1,13 @@
+{
+    "name": "poe/dungeon",
+    "description": "Super jeu",
+    "type": "project",
+    "license": "Beerware",
+    "authors": [
+        {
+            "name": "mathoutitou",
+            "email": "fougeron.mathilde@gmail.com"
+        }
+    ],
+    "require": {}
+}

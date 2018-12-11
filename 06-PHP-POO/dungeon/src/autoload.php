@@ -1,10 +1,10 @@
 <?php
 
 /**
- * on enregistre une fonction qui sera capable de trouvé la définition de classe
+ * on enregistre une fonction qui sera capable de trouver la définition de classe
  * à partir de son nom pleinement qualifié
  * 
- * Comme on aura pas besoin de cette fonction nous même par la suite,
+ * Comme on n'aura pas besoin de cette fonction nous même par la suite,
  * on la passe sous forme d'une fonction anonyme
  */
 spl_autoload_register(function($classname){

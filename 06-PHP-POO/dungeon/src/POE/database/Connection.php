@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: stagiaire
- * Date: 06/12/18
- * Time: 14:04
- */
 
 namespace POE\database;
 
